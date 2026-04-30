@@ -30,7 +30,7 @@ Built an end-to-end data engineering pipeline using Databricks and PySpark to pr
 - Built scalable and modular pipeline
 
 ## 📷 Sample Output
-(images/Screenshot 2026-04-30 160156.png)
+![Dashboard](images/Screenshot 2026-04-30 160156.png)
 
 ## 👨‍💻 Author
 Mohammed (Data Engineer)
